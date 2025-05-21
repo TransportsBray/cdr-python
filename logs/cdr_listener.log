@@ -1,0 +1,51 @@
+2025-05-20 15:22:45,545 | INFO | Serveur en �coute sur le port 3000
+2025-05-20 16:02:15,859 | INFO | Serveur en écoute sur le port 3000
+2025-05-20 16:02:50,885 | INFO | Connexion acceptée depuis ('127.0.0.1', 53791)
+2025-05-20 16:02:50,983 | INFO | CDR inséré : {'call_id': 'call_1', 'caller': '+33123456789', 'callee': '+33987654321', 'call_start': '2025-05-20 16:02:50', 'call_end': '2025-05-20 16:02:50', 'duration': 180, 'call_type': 'international', 'status': 'completed'}
+2025-05-20 16:02:50,983 | INFO | Connexion fermée par ('127.0.0.1', 53791)
+2025-05-20 16:02:51,886 | INFO | Connexion acceptée depuis ('127.0.0.1', 53793)
+2025-05-20 16:02:51,902 | INFO | CDR inséré : {'call_id': 'call_2', 'caller': '+33123456789', 'callee': '+33987654321', 'call_start': '2025-05-20 16:02:51', 'call_end': '2025-05-20 16:02:51', 'duration': 180, 'call_type': 'international', 'status': 'completed'}
+2025-05-20 16:02:51,902 | INFO | Connexion fermée par ('127.0.0.1', 53793)
+2025-05-20 16:02:52,888 | INFO | Connexion acceptée depuis ('127.0.0.1', 53796)
+2025-05-20 16:02:52,904 | INFO | CDR inséré : {'call_id': 'call_3', 'caller': '+33123456789', 'callee': '+33987654321', 'call_start': '2025-05-20 16:02:52', 'call_end': '2025-05-20 16:02:52', 'duration': 180, 'call_type': 'international', 'status': 'completed'}
+2025-05-20 16:02:52,904 | INFO | Connexion fermée par ('127.0.0.1', 53796)
+2025-05-20 16:02:53,891 | INFO | Connexion acceptée depuis ('127.0.0.1', 53798)
+2025-05-20 16:02:53,906 | INFO | CDR inséré : {'call_id': 'call_4', 'caller': '+33123456789', 'callee': '+33987654321', 'call_start': '2025-05-20 16:02:53', 'call_end': '2025-05-20 16:02:53', 'duration': 180, 'call_type': 'international', 'status': 'completed'}
+2025-05-20 16:02:53,907 | INFO | Connexion fermée par ('127.0.0.1', 53798)
+2025-05-20 16:02:54,893 | INFO | Connexion acceptée depuis ('127.0.0.1', 53800)
+2025-05-20 16:02:54,909 | INFO | CDR inséré : {'call_id': 'call_5', 'caller': '+33123456789', 'callee': '+33987654321', 'call_start': '2025-05-20 16:02:54', 'call_end': '2025-05-20 16:02:54', 'duration': 180, 'call_type': 'international', 'status': 'completed'}
+2025-05-20 16:02:54,909 | INFO | Connexion fermée par ('127.0.0.1', 53800)
+2025-05-20 16:15:21,797 | INFO | Serveur en écoute sur le port 3000
+2025-05-21 08:47:14,183 | INFO | Serveur en écoute sur le port 3000
+2025-05-21 08:48:16,409 | INFO | Serveur en écoute sur le port 3000
+2025-05-21 10:12:53,695 | INFO | Serveur en écoute sur le port 3000
+2025-05-21 10:17:20,680 | INFO | Serveur en écoute sur le port 3000
+2025-05-21 10:19:35,822 | INFO | Connexion acceptée depuis ('127.0.0.1', 61612)
+2025-05-21 10:19:35,822 | INFO | Thread démarré pour ('127.0.0.1', 61612)
+2025-05-21 10:19:35,829 | INFO | Connexion fermée par ('127.0.0.1', 61612)
+2025-05-21 10:33:43,803 | INFO | Serveur en écoute sur le port 3000
+2025-05-21 10:37:14,396 | INFO | Serveur en écoute sur le port 3000
+2025-05-21 10:37:22,650 | INFO | Connexion acceptée depuis ('127.0.0.1', 61897)
+2025-05-21 10:37:22,650 | INFO | Thread démarré pour ('127.0.0.1', 61897)
+2025-05-21 10:37:22,681 | INFO | CDR inséré : {'call_id': 'Ext.101_Ext.201_1747816642', 'caller': 'Ext.101', 'callee': 'Ext.201', 'call_start': '2025-05-21 10:37:22', 'call_end': '2025-05-21 10:38:32', 'duration': 70, 'call_type': 'TerminatedBySrc', 'status': 'TerminatedBySrc', 'chain': 'Ext.Ext.101; Ext.Ext.201;A'}
+2025-05-21 10:37:22,681 | INFO | Connexion fermée par ('127.0.0.1', 61897)
+2025-05-21 10:37:23,656 | INFO | Connexion acceptée depuis ('127.0.0.1', 61898)
+2025-05-21 10:37:23,657 | INFO | Thread démarré pour ('127.0.0.1', 61898)
+2025-05-21 10:37:23,673 | INFO | CDR inséré : {'call_id': 'Ext.102_Ext.202_1747816643', 'caller': 'Ext.102', 'callee': 'Ext.202', 'call_start': '2025-05-21 10:37:23', 'call_end': '2025-05-21 10:38:43', 'duration': 80, 'call_type': 'TerminatedBySrc', 'status': 'TerminatedBySrc', 'chain': 'Ext.Ext.102; Ext.Ext.202;A'}
+2025-05-21 10:37:23,674 | INFO | Connexion fermée par ('127.0.0.1', 61898)
+2025-05-21 10:37:24,660 | INFO | Connexion acceptée depuis ('127.0.0.1', 61899)
+2025-05-21 10:37:24,660 | INFO | Thread démarré pour ('127.0.0.1', 61899)
+2025-05-21 10:37:24,668 | INFO | CDR inséré : {'call_id': 'Ext.103_Ext.203_1747816644', 'caller': 'Ext.103', 'callee': 'Ext.203', 'call_start': '2025-05-21 10:37:24', 'call_end': '2025-05-21 10:38:54', 'duration': 90, 'call_type': 'TerminatedBySrc', 'status': 'TerminatedBySrc', 'chain': 'Ext.Ext.103; Ext.Ext.203;A'}
+2025-05-21 10:37:24,668 | INFO | Connexion fermée par ('127.0.0.1', 61899)
+2025-05-21 10:37:25,666 | INFO | Connexion acceptée depuis ('127.0.0.1', 61900)
+2025-05-21 10:37:25,666 | INFO | Thread démarré pour ('127.0.0.1', 61900)
+2025-05-21 10:37:25,677 | INFO | CDR inséré : {'call_id': 'Ext.104_Ext.204_1747816645', 'caller': 'Ext.104', 'callee': 'Ext.204', 'call_start': '2025-05-21 10:37:25', 'call_end': '2025-05-21 10:39:05', 'duration': 100, 'call_type': 'TerminatedBySrc', 'status': 'TerminatedBySrc', 'chain': 'Ext.Ext.104; Ext.Ext.204;A'}
+2025-05-21 10:37:25,677 | INFO | Connexion fermée par ('127.0.0.1', 61900)
+2025-05-21 10:37:26,668 | INFO | Connexion acceptée depuis ('127.0.0.1', 61901)
+2025-05-21 10:37:26,668 | INFO | Thread démarré pour ('127.0.0.1', 61901)
+2025-05-21 10:37:26,677 | INFO | CDR inséré : {'call_id': 'Ext.105_Ext.205_1747816646', 'caller': 'Ext.105', 'callee': 'Ext.205', 'call_start': '2025-05-21 10:37:26', 'call_end': '2025-05-21 10:39:16', 'duration': 110, 'call_type': 'TerminatedBySrc', 'status': 'TerminatedBySrc', 'chain': 'Ext.Ext.105; Ext.Ext.205;A'}
+2025-05-21 10:37:26,678 | INFO | Connexion fermée par ('127.0.0.1', 61901)
+2025-05-21 11:27:28,387 | INFO | Serveur en écoute sur le port 3000
+2025-05-21 11:28:12,350 | INFO | Connexion acceptée depuis ('127.0.0.1', 50202)
+2025-05-21 11:28:12,350 | INFO | Thread démarré pour ('127.0.0.1', 50202)
+2025-05-21 13:46:00,366 | INFO | Connexion fermée par ('127.0.0.1', 50202)

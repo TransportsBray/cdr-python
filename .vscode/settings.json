@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3307,
+            "driver": "MySQL",
+            "name": "3cx_db",
+            "database": "3cx_db",
+            "username": "root",
+            "connectionTimeout": 15,
+            "askForPassword": true
+        }
+    ]
+}
